@@ -191,21 +191,12 @@ graph LR
 ## 🗓️ Activity Overview
 
 <div align="center">
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {
-  'primaryColor': '#1a1a2e',
-  'edgeLabelBackground':'#1a1a2e',
-  'tertiaryColor': '#00ffff',
-  'textColor': '#ffffff'
-}}}%%
-pie title GitHub Activity Distribution
-    "Commits" : 40
-    "Pull Requests" : 15
-    "Issues" : 10
-    "Stars" : 5
-    "Forks" : 3
-```
+  
+  <!-- Shows your commits per day -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamzanadeem2&theme=github_dark" width="45%"/>
+  
+  <!-- Shows your languages with actual usage -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamzanadeem2&theme=github_dark" width="45%"/>
 
 </div>
 
