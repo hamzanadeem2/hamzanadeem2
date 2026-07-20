@@ -132,7 +132,7 @@ graph LR
         <img src="https://img.shields.io/badge/Room-DB-blue?style=flat-square&logo=sqlite&logoColor=white" alt="Room DB"/>
         <img src="https://img.shields.io/badge/Retrofit-FF6F00?style=flat-square&logo=square&logoColor=white" alt="Retrofit"/>
         <br><br>
-        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Active"/>
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Completed"/>
         <br><br>
         📱 <strong>Role-Based Architecture</strong>
       </div>
@@ -154,8 +154,43 @@ graph LR
       </div>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <img src="https://img.shields.io/badge/Web%20App-LMS-blue?style=for-the-badge&logo=web&logoColor=white" alt="LMS"/>
+        <br><br>
+        <h3>📚 Learning Management System (LMS)</h3>
+        <p><strong>Full-featured online learning platform with course creation, enrollment, and progress tracking</strong></p>
+        <br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Completed"/>
+        <br><br>
+        🎓 <strong>Course Management & User Roles</strong>
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <img src="https://img.shields.io/badge/Machine%20Learning-Regression-blue?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Housing Prediction"/>
+        <br><br>
+        <h3>🏠 Ames Housing Price Prediction</h3>
+        <p><strong>ML model predicting house prices using the Ames dataset with feature engineering and EDA</strong></p>
+        <br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Completed"/>
+        <br><br>
+        📊 <strong>Data Analysis & Predictive Modeling</strong>
+      </div>
+    </td>
+  </tr>
 </table>
-
 </div>
 
 ## 📌 Currently Working On
