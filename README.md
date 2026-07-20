@@ -171,8 +171,8 @@ graph LR
 <!-- Profile Details Card - Shows comprehensive profile summary -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzanadeem2&theme=github_dark" width="100%" alt="Profile Details"/>
 
-<!-- Activity Graph - Shows your contribution timeline -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzanadeem2&bg_color=0d1117&color=00ffff&line=0066ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+<!-- FIXED CONTRIBUTION GRAPH - Shows your actual GitHub contribution history -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzanadeem2&bg_color=0d1117&color=00ffff&line=0066ff&point=ffffff&area=true&hide_border=true&custom_title=Hamza's%20Contribution%20Graph&days=365" alt="Contribution Graph"/>
 
 <br><br>
 
