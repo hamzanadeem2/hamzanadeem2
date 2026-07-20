@@ -13,6 +13,7 @@
 
 ---
 
+
 ## 🎨 About Me
 
 ```mermaid
@@ -34,6 +35,32 @@ graph TD
     style C fill:#ff5500,stroke:#ffff00
     style D fill:#00aa88,stroke:#88ff00
 ```
+
+## 📅 GitHub Journey
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GitHub%20Experience-1%20Year-blue?style=for-the-badge&logo=github&logoColor=white&color=0066ff" alt="1 Year GitHub"/>
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {
+  'primaryColor': '#1a1a2e',
+  'edgeLabelBackground':'#1a1a2e',
+  'tertiaryColor': '#00ffff',
+  'textColor': '#ffffff'
+}}}%%
+graph LR
+    A[2025] --> B[Join GitHub]
+    B --> C[First Repository]
+    C --> D[Learning & Building]
+    D --> E[Mobile Apps & AI Projects]
+    E --> F[Continuing Growth 🚀]
+    style A fill:#0066ff,stroke:#00ffff,color:#ffffff
+    style F fill:#5e00aa,stroke:#00ffff,color:#ffffff
+```
+
+</div>
+
 ## 🏆 Focus Areas
 
 <div align="center">
@@ -107,7 +134,7 @@ graph TD
         <br><br>
         <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Active"/>
         <br><br>
-        📱 **Role-Based Architecture**
+        📱 <strong>Role-Based Architecture</strong>
       </div>
     </td>
     <td width="50%">
@@ -123,7 +150,7 @@ graph TD
         <br><br>
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Completed"/>
         <br><br>
-        🧠 **Edge Detection & Analysis**
+        🧠 <strong>Edge Detection & Analysis</strong>
       </div>
     </td>
   </tr>
@@ -137,17 +164,37 @@ graph TD
 - **Mobile Development** - Refining native Android app structures and backend logic
 - **Global Opportunities** - Preparing research portfolios and academic projects ahead of graduation
 
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzanadeem&theme=github_dark" width="100%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzanadeem&bg_color=0d1117&color=00ffff&line=0066ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-<img src="https://streak-stats.demolab.com?user=hamzanadeem&theme=highcontrast&hide_border=true&date_format=j%2520M%255B%2520Y%255D&ring=00ffff&fire=0066ff&currStreakNum=ffffff" alt="GitHub Streak"/>
+| 📊 Overview | 🏆 Achievements |
+|:---:|:---:|
+| <img src="https://github-readme-stats.vercel.app/api?username=hamzanadeem2&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" alt="GitHub Stats"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzanadeem2&theme=highcontrast&hide_border=true" alt="GitHub Streak"/> |
 
 </div>
 
-## 🤝 Let's Connect
+## 🗓️ 2026 Progress
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {
+  'primaryColor': '#1a1a2e',
+  'edgeLabelBackground':'#1a1a2e',
+  'tertiaryColor': '#00ffff',
+  'textColor': '#ffffff'
+}}}%%
+pie title GitHub Activity (1 Year)
+    "Commits" : 40
+    "PRs" : 15
+    "Issues" : 10
+    "Stars" : 5
+    "Forks" : 3
+```
+
+</div>
+
+## 📬 Get in Touch
 
 <div align="center">
 
@@ -160,12 +207,11 @@ graph TD
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=hamzanadeem&style=flat-square&color=00ffff&labelColor=1a1a2e" alt="Profile Views"/>
+> *"Building the future one line of code at a time. 🚀"*
+
+<img src="https://komarev.com/ghpvc/?username=hamzanadeem2&style=flat-square&color=00ffff&labelColor=1a1a2e" alt="Profile Views"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,50:00ffff,100:5e00aa&height=150&section=footer&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="Footer"/>
 
 </div>
-
-
-
-
+```
