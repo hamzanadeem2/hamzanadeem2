@@ -224,5 +224,3 @@ graph LR
 
 </div>
 ```
-
-Just copy and paste this entire code into your `README.md` file on GitHub. The stats will pull from your real GitHub activity data!
