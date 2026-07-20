@@ -13,7 +13,6 @@
 
 ---
 
-
 ## 🎨 About Me
 
 ```mermaid
@@ -35,6 +34,7 @@ graph TD
     style C fill:#ff5500,stroke:#ffff00
     style D fill:#00aa88,stroke:#88ff00
 ```
+---
 
 ## 📅 GitHub Journey
 
@@ -164,16 +164,39 @@ graph LR
 - **Mobile Development** - Refining native Android app structures and backend logic
 - **Global Opportunities** - Preparing research portfolios and academic projects ahead of graduation
 
+## 📊 GitHub Stats (Pulls real-time data from your account)
 
 <div align="center">
 
-| 📊 Overview | 🏆 Achievements |
-|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=hamzanadeem2&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" alt="GitHub Stats"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzanadeem2&theme=highcontrast&hide_border=true" alt="GitHub Streak"/> |
+<!-- Profile Details Card - Shows comprehensive profile summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzanadeem2&theme=github_dark" width="100%" alt="Profile Details"/>
+
+<!-- Activity Graph - Shows your contribution timeline -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzanadeem2&bg_color=0d1117&color=00ffff&line=0066ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+
+<br><br>
+
+<!-- Main Stats Card - Shows commits, PRs, issues, stars -->
+<img src="https://github-readme-stats.vercel.app/api?username=hamzanadeem2&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" alt="GitHub Stats"/>
+
+<br><br>
+
+<!-- Streak Stats - Shows your contribution streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzanadeem2&theme=highcontrast&hide_border=true" alt="GitHub Streak"/>
+
+<br><br>
+
+<!-- Top Languages - Shows your most used programming languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzanadeem2&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages"/>
+
+<br><br>
+
+<!-- Trophy Stats - Shows your GitHub achievements -->
+<img src="https://github-profile-trophy.vercel.app/?username=hamzanadeem2&theme=onedark&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 </div>
 
-## 🗓️ 2026 Progress
+## 🗓️ Activity Overview
 
 <div align="center">
 
@@ -184,9 +207,9 @@ graph LR
   'tertiaryColor': '#00ffff',
   'textColor': '#ffffff'
 }}}%%
-pie title GitHub Activity (1 Year)
+pie title GitHub Activity Distribution
     "Commits" : 40
-    "PRs" : 15
+    "Pull Requests" : 15
     "Issues" : 10
     "Stars" : 5
     "Forks" : 3
@@ -200,6 +223,7 @@ pie title GitHub Activity (1 Year)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzanadeem2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzanadeemfsd/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mianmhamzafsd@gmail.com)
 
 </div>
 
@@ -209,9 +233,13 @@ pie title GitHub Activity (1 Year)
 
 > *"Building the future one line of code at a time. 🚀"*
 
+<!-- Profile View Counter -->
 <img src="https://komarev.com/ghpvc/?username=hamzanadeem2&style=flat-square&color=00ffff&labelColor=1a1a2e" alt="Profile Views"/>
 
+<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,50:00ffff,100:5e00aa&height=150&section=footer&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="Footer"/>
 
 </div>
 ```
+
+Just copy and paste this entire code into your `README.md` file on GitHub. The stats will pull from your real GitHub activity data!
