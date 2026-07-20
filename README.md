@@ -176,9 +176,6 @@ graph LR
 
 <br><br>
 
-<!-- Main Stats Card - Shows commits, PRs, issues, stars -->
-<img src="https://github-readme-stats.vercel.app/api?username=hamzanadeem2&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" alt="GitHub Stats"/>
-
 <br><br>
 
 <!-- Streak Stats - Shows your contribution streak -->
@@ -186,13 +183,8 @@ graph LR
 
 <br><br>
 
-<!-- Top Languages - Shows your most used programming languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzanadeem2&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages"/>
 
-<br><br>
 
-<!-- Trophy Stats - Shows your GitHub achievements -->
-<img src="https://github-profile-trophy.vercel.app/?username=hamzanadeem2&theme=onedark&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 </div>
 
